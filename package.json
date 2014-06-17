@@ -1,0 +1,26 @@
+{
+  "name": "responsive-wedding",
+  "version": "0.0.0",
+  "description": "An informative website for kate and james' wedding",
+  "main": "index.html",
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesandkatewed/responsive-wedding.git"
+  },
+  "keywords": [
+    "wedding",
+    "james",
+    "kate",
+    "washington",
+    "park"
+  ],
+  "author": "katrina e",
+  "license": "share-alike",
+  "bugs": {
+    "url": "https://github.com/jamesandkatewed/responsive-wedding/issues"
+  },
+  "homepage": "https://github.com/jamesandkatewed/responsive-wedding"
+}
