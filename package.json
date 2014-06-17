@@ -2,7 +2,7 @@
   "name": "responsive-wedding",
   "version": "0.0.0",
   "description": "An informative website for kate and james' wedding",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
     "test": "http-server"
   },
